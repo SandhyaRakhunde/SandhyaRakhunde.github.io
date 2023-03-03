@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SandhyaRakhunde.github.io/static/css/main.68e98b0c.css",
+    "main.js": "/SandhyaRakhunde.github.io/static/js/main.0c073888.js",
+    "static/media/bg.jpg": "/SandhyaRakhunde.github.io/static/media/bg.fd2d0b405e56f49cd099.jpg",
+    "static/media/pict-harmony.png": "/SandhyaRakhunde.github.io/static/media/pict-harmony.da687068f00eb940d9a7.png",
+    "static/media/calculator.png": "/SandhyaRakhunde.github.io/static/media/calculator.2ff5c5d32c5909ee75c6.png",
+    "static/media/cpp.png": "/SandhyaRakhunde.github.io/static/media/cpp.666af1b3598c92045b63.png",
+    "static/media/currencyConverter.png": "/SandhyaRakhunde.github.io/static/media/currencyConverter.f3e200f5e1171f4ecba4.png",
+    "static/media/react.png": "/SandhyaRakhunde.github.io/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/qr.png": "/SandhyaRakhunde.github.io/static/media/qr.654597a3dbfe2159360e.png",
+    "static/media/sql.png": "/SandhyaRakhunde.github.io/static/media/sql.ca43e7ff4eed6220566a.png",
+    "static/media/mongo.png": "/SandhyaRakhunde.github.io/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/SandhyaRakhunde.github.io/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo1.png": "/SandhyaRakhunde.github.io/static/media/logo1.9af515e3c5742eb5f9f5.png",
+    "static/media/html.png": "/SandhyaRakhunde.github.io/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/SandhyaRakhunde.github.io/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/SandhyaRakhunde.github.io/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/SandhyaRakhunde.github.io/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/SandhyaRakhunde.github.io/index.html",
+    "main.68e98b0c.css.map": "/SandhyaRakhunde.github.io/static/css/main.68e98b0c.css.map",
+    "main.0c073888.js.map": "/SandhyaRakhunde.github.io/static/js/main.0c073888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e98b0c.css",
+    "static/js/main.0c073888.js"
+  ]
+}
